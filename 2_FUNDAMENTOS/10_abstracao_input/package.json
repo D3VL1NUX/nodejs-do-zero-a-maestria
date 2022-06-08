@@ -1,0 +1,16 @@
+{
+  "name": "10_abstracao_input",
+  "version": "1.0.0",
+  "description": "- Há um módulo externo chamado **inquirer**; - Que é muito mais completo para **resgatar e lidar** com input do usuário; - Além disso, é **baseado em Promises**, o que torna sua utilização mais simple;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.4"
+  }
+}
