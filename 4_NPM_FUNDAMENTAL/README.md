@@ -1,0 +1,7 @@
+# O que é npm?
+
+- É o principal **gerenciador de pacotes** do Node.js;
+- A sigla significa: **Node Package Manager**;
+- A maioria dos projetos que vamos trabalhar em Node, **também terá atuação do npm**;
+- Podemos não só instalar pacotes, mas também **configurar o projeto e rodar scripts** por meio do npm;
+- A criação de um projeto gera sempre um arquivo, o **package.json**;

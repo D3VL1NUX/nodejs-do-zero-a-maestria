@@ -1,0 +1,6 @@
+# Criando script
+
+- É possível **criar rotinas com o npm** também;
+- Ou seja, executamos uma série de comandos com apenas um;
+- Utilizamos **npm run < script >**;
+- Onde o **< script >** é o nome da sequência de comandos que configuramos;

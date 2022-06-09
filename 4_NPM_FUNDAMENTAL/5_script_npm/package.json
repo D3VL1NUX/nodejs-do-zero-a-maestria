@@ -1,0 +1,16 @@
+{
+  "name": "5_script_npm",
+  "version": "1.0.0",
+  "description": "- É possível **criar rotinas com o npm** também; - Ou seja, executamos uma série de comandos com apenas um; - Utilizamos **npm run < script >**; - Onde o **< script >** é o nome da sequência de comandos que configuramos;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
