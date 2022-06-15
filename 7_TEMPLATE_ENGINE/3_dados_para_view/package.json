@@ -1,0 +1,20 @@
+{
+  "name": "1_instalacao_handlebars",
+  "version": "1.0.0",
+  "description": "- Vamos precisar instalar o **Express e o Handlebars**, para o correto funcionamento; - Podemos também utilizar o **Nodemon**, para nos ajudar; - No index precisamos **importar** os pacotes instalados; - E também adicionar ao Express a **engine** do Handlebars; - Criaremos uma **view** no diretório views, com a **extensão handlebars**; - Utilizamos o método **render** para enviar esta view para a requisição;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6"
+  }
+}

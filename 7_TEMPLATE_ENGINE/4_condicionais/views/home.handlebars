@@ -1,0 +1,8 @@
+<h1>Personagem</h1>
+<p>Nome do personagem é {{character.name}}</p>
+<p>Sobrenome do personagem é {{character.surname}}</p>
+{{#if auth}}
+  <p>Você está autenticado,
+    <a href="/dashboard">clique aqui</a>
+    para embarcar na sua nave dashboard</p>
+{{/if}}
