@@ -3,4 +3,4 @@
 - Precisamos definir as **relações entre os dois Models**, podemos fazer isso no Model de endereços;
 - Depois basta utilizar o **operador include** com o nome do Model, onde estamos resgatando o dado;
 - Isso faz com que os **registros associados** também venham na seleção;
-- Como há dados relacionados, precisamos **remover o raw**;
+- Como há dados relacionados, precisamos **remover o raw**

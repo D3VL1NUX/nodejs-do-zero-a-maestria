@@ -2,4 +2,4 @@
 
 - Para remover itens relacionados utilizaremos o **mesmo processo de remoção de itens**;
 - Criaremos um **formulário** que envia o id do item;
-- E uma rota para receber estas informações e executar a remoção, utilizando o **método destroy**;
+- E uma rota para receber estas informações e executar a remoção, utilizando o **método destroy**
