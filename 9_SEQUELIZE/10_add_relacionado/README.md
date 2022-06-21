@@ -1,0 +1,7 @@
+# Adicionando dado relacionado
+
+- Para adicionar o dado relacionado **o fluxo é quase o mesmo**;
+- O grande detalhe é que precisamos passar o **id do item** que o relaciona;
+- Podemos fazer com um input do tipo **hidden**;
+- Dentro do **form** que contém os dados do novo item;
+- E enviando para uma **nova rota** no nosso sistema;
