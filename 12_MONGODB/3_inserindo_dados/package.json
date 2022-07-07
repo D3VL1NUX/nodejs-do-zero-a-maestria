@@ -1,0 +1,19 @@
+{
+  "name": "1_instalacao",
+  "version": "1.0.0",
+  "description": "- Primeiramente vamos precisar instalar o **driver do MongoDB**, que é **mongodb** (um pacote de npm); - Depois criaremos a conexão, beseada em uma URL com o **protocolo mongodb**; - Através da classe **MongoClient**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "mongodb": "^4.7.0",
+    "nodemon": "^2.0.18"
+  }
+}

@@ -1,0 +1,5 @@
+# Resgatando um dado
+
+- Para resgatar um dado vamos utilizar o método **findOne**;
+- Onde podemos **filtrar por um campo**, que no nosso caso vai ser o \_id;
+- Vamos **enviar o dado para o Controller** e depois para a View;
